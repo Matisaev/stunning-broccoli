@@ -1,2 +1,1 @@
-# stunning-broccoli
 тестовый репозиторий
